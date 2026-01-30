@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PhotoAlbum</string>
+    <string name="exit">Выход</string>
+    <string name="begin">Начать просмотр</string>
+    <string name="welcomes">Ностальгия по прошлому</string>
+    <string name="nextPhoto">следующее фото</string>
+    <string name="complete">Завершить просмотр</string>
+    <string name="finalText">Слезу пустил? Теперь иди работай</string>
+</resources>
